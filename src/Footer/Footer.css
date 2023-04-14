@@ -1,0 +1,32 @@
+.footer{
+    padding: 80px;
+    height: 264px;
+    background-color: #22DAD8;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+.logo-footer img{
+    width: 160px;
+}
+
+.social-media svg{
+    margin: 16px;
+    font-size: 35px;
+    cursor: pointer;
+    color: #FFF;
+}
+
+.developer {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
